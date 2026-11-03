@@ -1,0 +1,36 @@
+{
+  "name": "quickstay-server",
+  "version": "1.0.0",
+  "description": "Backend REST API for QuickStay Hotel Booking & Management Platform",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "hotel-booking",
+    "express",
+    "mongodb",
+    "stripe",
+    "clerk",
+    "cloudinary"
+  ],
+  "author": "Sai Lohith",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "@clerk/express": "^1.4.2",
+    "cloudinary": "^2.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2",
+    "multer": "^1.4.5-lts.2",
+    "nodemailer": "^6.10.0",
+    "stripe": "^18.0.0",
+    "svix": "^1.63.1"
+  }
+}
