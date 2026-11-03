@@ -380,4 +380,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **Sai Lohith**
 - GitHub: [@sailohith-45](https://github.com/sailohith-45)
-- LinkedIn: [Sai Lohith](https://www.linkedin.com/in/sailohith/)
+- LinkedIn: [Sai Lohith](https://www.linkedin.com/in/sai-lohith-kakani-7283962b9/)
