@@ -275,8 +275,8 @@ QuickStay-FullStack/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/sailohith-45/QuickStay-FullStack.git
-   cd QuickStay-FullStack
+   git clone https://github.com/sailohith-45/quickstay.git
+   cd quickstay
    ```
 
 2. **Set up Backend**:
